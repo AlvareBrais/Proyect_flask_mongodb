@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <link rel="stylesheet" type="text/css" href="{{ url_for('static', filename='styles.css') }}">
+    <meta charset="UTF-8">
+    <title>Listado de Jugadores</title>
+</head>
+<body>
+    <h1>Listado de Jugadores</h1>
+    
+    <table border="1">
+        <thead>
+            <tr>
+                <th class="center-text">Nombre</th>
+                <th class="center-text">ELO</th>
+                <th class="center-text">Posición</th>
+                <th class="center-text">Número de Partidas</th>
+                <th class="center-text">Winrate</th>
+                <th class="center-text">Puntos</th>
+            </tr>
+        </thead>
+        <tbody>
+            {% for jugador in jugadores %}
+                <tr>
+                    <td>{{ jugador.nombre }}</td>
+                    <td>{{ jugador.elo }}</td>
+                    <td>{{ jugador.posicion }}</td>
+                    <td>{{ jugador.npartidas }}</td>
+                    <td>{{ jugador.winrate }}</td>
+                    <td>{{ jugador.puntos }}</td>
+                </tr>
+            {% endfor %}
+        </tbody>
+    </table>
+</body>
+</html>
+

@@ -1,0 +1,218 @@
+[
+    {
+        "nombre": "InELOHell",
+        "elo": "Oro",
+        "posicion": "Jungla",
+        "npartidas": 81,
+        "winrate": 47.77,
+        "puntos": 9
+    },
+    {
+        "nombre": "LAGtastic",
+        "elo": "Plata",
+        "posicion": "Support",
+        "npartidas": 299,
+        "winrate": 46.98,
+        "puntos": 87
+    },
+    {
+        "nombre": "VisionIsForTryhards",
+        "elo": "Plata",
+        "posicion": "Top",
+        "npartidas": 136,
+        "winrate": 49.18,
+        "puntos": 19
+    },
+    {
+        "nombre": "MemeLordAndSavior",
+        "elo": "Hierro",
+        "posicion": "Mid",
+        "npartidas": 161,
+        "winrate": 78.3,
+        "puntos": 19
+    },
+    {
+        "nombre": "TheFlashGordon",
+        "elo": "Diamante",
+        "posicion": "Jungla",
+        "npartidas": 50,
+        "winrate": 19.12,
+        "puntos": 90
+    },
+    {
+        "nombre": "UrgotToBeKidding",
+        "elo": "Gran Maestro",
+        "posicion": "Jungla",
+        "npartidas": 175,
+        "winrate": 35.05,
+        "puntos": 75
+    },
+    {
+        "nombre": "IMainTeemo",
+        "elo": "Plata",
+        "posicion": "Jungla",
+        "npartidas": 77,
+        "winrate": 79.14,
+        "puntos": 3
+    },
+    {
+        "nombre": "NerfMyLife",
+        "elo": "Oro",
+        "posicion": "Jungla",
+        "npartidas": 75,
+        "winrate": 72.91,
+        "puntos": 44
+    },
+    {
+        "nombre": "GG_EZ_Game",
+        "elo": "Challenger",
+        "posicion": "Adc",
+        "npartidas": 309,
+        "winrate": 36.14,
+        "puntos": 31
+    },
+    {
+        "nombre": "JhinAndTonic",
+        "elo": "Platino",
+        "posicion": "Support",
+        "npartidas": 325,
+        "winrate": 38.4,
+        "puntos": 81
+    },
+    {
+        "nombre": "FeedMeMoreELO",
+        "elo": "Plata",
+        "posicion": "Jungla",
+        "npartidas": 271,
+        "winrate": 79.5,
+        "puntos": 34
+    },
+    {
+        "nombre": "BlueBuffBandit",
+        "elo": "Platino",
+        "posicion": "Mid",
+        "npartidas": 238,
+        "winrate": 28.13,
+        "puntos": 31
+    },
+    {
+        "nombre": "MissFortunate",
+        "elo": "Gran Maestro",
+        "posicion": "Support",
+        "npartidas": 226,
+        "winrate": 43.1,
+        "puntos": 45
+    },
+    {
+        "nombre": "WardrobeMalfunction",
+        "elo": "Platino",
+        "posicion": "Top",
+        "npartidas": 163,
+        "winrate": 63.01,
+        "puntos": 34
+    },
+    {
+        "nombre": "AFKorFeed",
+        "elo": "Oro",
+        "posicion": "Support",
+        "npartidas": 106,
+        "winrate": 24.56,
+        "puntos": 38
+    },
+    {
+        "nombre": "PentaStealer",
+        "elo": "Hierro",
+        "posicion": "Top",
+        "npartidas": 178,
+        "winrate": 80.6,
+        "puntos": 68
+    },
+    {
+        "nombre": "GankYouVeryMuch",
+        "elo": "Bronze",
+        "posicion": "Support",
+        "npartidas": 296,
+        "winrate": 16.48,
+        "puntos": 56
+    },
+    {
+        "nombre": "HookedOnThresh",
+        "elo": "Diamante",
+        "posicion": "Support",
+        "npartidas": 306,
+        "winrate": 67.25,
+        "puntos": 26
+    },
+    {
+        "nombre": "DiscoNunu",
+        "elo": "Diamante",
+        "posicion": "Adc",
+        "npartidas": 293,
+        "winrate": 66.41,
+        "puntos": 81
+    },
+    {
+        "nombre": "NerfThisChamp",
+        "elo": "Challenger",
+        "posicion": "Mid",
+        "npartidas": 171,
+        "winrate": 34.54,
+        "puntos": 93
+    },
+    {
+        "nombre": "TowerDiveExpert",
+        "elo": "Gran Maestro",
+        "posicion": "Support",
+        "npartidas": 332,
+        "winrate": 41.36,
+        "puntos": 74
+    },
+    {
+        "nombre": "KatarinaTheGreat",
+        "elo": "Oro",
+        "posicion": "Support",
+        "npartidas": 314,
+        "winrate": 25.68,
+        "puntos": 36
+    },
+    {
+        "nombre": "MinionSlayer",
+        "elo": "Hierro",
+        "posicion": "Adc",
+        "npartidas": 331,
+        "winrate": 14.77,
+        "puntos": 93
+    },
+    {
+        "nombre": "PingSpikes",
+        "elo": "Bronze",
+        "posicion": "Jungla",
+        "npartidas": 190,
+        "winrate": 70.7,
+        "puntos": 54
+    },
+    {
+        "nombre": "ILoveFarm",
+        "elo": "Maestro",
+        "posicion": "Jungla",
+        "npartidas": 121,
+        "winrate": 72.8,
+        "puntos": 83
+    },
+    {
+        "nombre": "MyNexusYourNexus",
+        "elo": "Bronze",
+        "posicion": "Support",
+        "npartidas": 350,
+        "winrate": 62.65,
+        "puntos": 98
+    },
+    {
+        "nombre": "JunglingForDummies",
+        "elo": "Diamante",
+        "posicion": "Support",
+        "npartidas": 141,
+        "winrate": 43.78,
+        "puntos": 63
+    }
+]
